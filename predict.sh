@@ -1,0 +1,1 @@
+darknet detector test cfg/obj.data cfg/yolo-obj.cfg weights.h5 ./test/keke/0.jpg
